@@ -1,8 +1,4 @@
-# anandamritraj.in
-
-[![Build Status](https://travis-ci.com/anamritraj/anandamritraj.in.svg?branch=master)](https://travis-ci.com/anamritraj/anandamritraj.in)
-
-My personal blog. Forked from [Overreacted.io](https://github.com/gaearon/overreacted.io). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
+# Blog
 
 To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 
