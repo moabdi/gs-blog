@@ -5,6 +5,7 @@ spoiler: I have always wondered how React works under the hood
 tags: reactjs, reverse-engineering, architecture
 ---
 
+## Mytitle
 Being a React fanboy, I have always wondered how it is so performant even in heavy data-driven applications. Also, I have always wanted to contribute to ReactJS on GitHub but somehow, I feel that the repository can be overwhelming for someone who has never contributed to open-source apart from creating issues.
 
 Right now I am brushing up my Data Structures and Algorithmic skills and was thinking where to apply what I have learnt. Implementing your own linked lists and hashmaps is cool but what next? This is when I thought to create my own version of ReactJS.
